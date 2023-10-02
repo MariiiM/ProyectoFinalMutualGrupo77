@@ -11,4 +11,10 @@ package ProyectoFibalMutual.entidades;
  */
 public class Afiliado {
     
+   
+    private int idAfiliado;
+    private String nombre;
+    private String apellido;
+    private int dni;
+    private boolean estado;
 }
