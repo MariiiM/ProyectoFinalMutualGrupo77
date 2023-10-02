@@ -5,10 +5,7 @@
  */
 package ProyectoFibalMutual.entidades;
 
-/**
- *
- * @author m
- */
+
 public class Especialidad {
     
 }
